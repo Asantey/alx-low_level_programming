@@ -1,5 +1,6 @@
+#include <main.h>
 /**
- * _strpbrk - bytes
+ *  _strpbrk - bytes
  * @s: pointer to char
  * @accept: pointer to char
  * Return: NULL
