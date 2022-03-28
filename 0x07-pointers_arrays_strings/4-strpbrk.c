@@ -1,4 +1,6 @@
-#include <main.h>
+#include "holberton.h"
+#include <stdio.h>
+
 /**
  *  _strpbrk - bytes
  * @s: pointer to char
