@@ -5,6 +5,7 @@
  *
  * Return: Always 0.
  */
+
 void print_chessboard(char (*a)[8])
 {
 	int i, j;
@@ -18,3 +19,4 @@ void print_chessboard(char (*a)[8])
 		_putchar('\n');
 	}
 }
+
