@@ -2,6 +2,7 @@
 
 /**
  * print_chessboard - prints chessboard.
+ * pointers to pieces
  *
  * @a: matrix
  */
