@@ -1,11 +1,12 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * print_chessboard - prints the chessboard
+ * @a: pointer to pieces to print
  *
- * Return: Always 0.
+ * Return: void
  */
-
 void print_chessboard(char (*a)[8])
 {
 	int i, j;
@@ -19,4 +20,3 @@ void print_chessboard(char (*a)[8])
 		_putchar('\n');
 	}
 }
-
